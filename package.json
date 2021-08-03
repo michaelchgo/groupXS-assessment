@@ -1,0 +1,19 @@
+{
+  "name": "hp-books-calculator",
+  "version": "1.0.0",
+  "description": "calculate price of harry potter books with discounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michael Go",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-typescript": "^7.14.5",
+    "jest": "^27.0.6",
+    "typescript": "^4.3.5"
+  }
+}
